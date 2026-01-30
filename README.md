@@ -1,4 +1,4 @@
-# Hryvinskyi SplideJs
+# Magento 2 / Adobe Commerce SplideJs
 
 Magento 2 base module for [Splide.js](https://splidejs.com/) - a lightweight, flexible slider/carousel library.
 
