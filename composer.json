@@ -1,0 +1,26 @@
+{
+    "name": "hryvinskyi/magento2-splide-js",
+    "description": "Magento 2 base module for Splide.js slider library",
+    "type": "magento2-module",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Volodymyr Hryvinskyi",
+            "email": "volodymyr@hryvinskyi.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "magento/framework": "*",
+        "magento/module-widget": "*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Hryvinskyi\\SplideJs\\": ""
+        }
+    }
+}
